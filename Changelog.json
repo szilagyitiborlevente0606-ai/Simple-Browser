@@ -1,13 +1,13 @@
 {
-  "latest_version": "1.9 no new download for this ver",
-  "latest_patch_date": "2026-05-02",
-  "your_patch_date": "2026-05-02",
+  "latest_version": "2.0",
+  "latest_patch_date": "2026-05-10",
+  "your_patch_date": "2026-05-10",
 
   "changes": [
-    "Updated Browser security patch to May 2 increased browser security",
-    "",
-    "",
-    "",
+    "Updated Browser security patch to May 10 increased browser security",
+    "Added battery saver",
+    "fixed some ui bugs",
+    "Bookmarks coming soon",
     "I recommend downloading the latest version from github!"
   ]
 }
